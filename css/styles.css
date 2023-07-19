@@ -60,6 +60,9 @@ footer {
   display: flex;
 }
 
+a {
+  text-decoration: none;
+}
 .social-media,
 img {
   height: 40px;
